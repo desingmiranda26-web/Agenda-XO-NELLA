@@ -1,0 +1,6 @@
+{
+  "name": "XO NELLA — Nail Studio & Agenda",
+  "description": "Aplicación web interactiva de reservas online, galería de trabajos, pagos y gestión independiente de citas para el estudio de uñas XO NELLA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
